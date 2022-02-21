@@ -1,0 +1,57 @@
+{
+    "signup": {
+        "name": "Nelson Gomes",
+        "cpf": "00000000035",
+        "email": "nelson.gomes@gmail.com",
+        "whpp": "62981317252",
+
+        "address": {
+            "postalcode": "74675050",
+            "street": "Rua Araguari",
+            "number": "12",
+            "details": "QD 19 LT 25",
+            "district": "Jardim Guanabara",
+            "city_state": "Goiânia/GO"
+        },
+        "delivery_method": "Moto",
+        "cnh": "./images/cnh-digital.jpg"
+
+    },
+
+    "cpf_inv": {
+        "name": "Nelson Mendes",
+        "cpf": "AB000000035",
+        "email": "nelson.mendes@gmail.com",
+        "whpp": "62981317252",
+
+        "address": {
+            "postalcode": "74675050",
+            "street": "Rua Araguari",
+            "number": "12",
+            "details": "QD 19 LT 25",
+            "district": "Jardim Guanabara",
+            "city_state": "Goiânia/GO"
+        },
+        "delivery_method": "Moto",
+        "cnh": "./images/cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Lorraine Crispim",
+        "cpf": "00000000035",
+        "email": "lorrainecrismpim.com.br",
+        "whpp": "62981317252",
+
+        "address": {
+            "postalcode": "74675050",
+            "street": "Rua Araguari",
+            "number": "12",
+            "details": "QD 19 LT 25",
+            "district": "Jardim Guanabara",
+            "city_state": "Goiânia/GO"
+        },
+        "delivery_method": "Moto",
+        "cnh": "./images/cnh-digital.jpg"
+
+    }
+}
